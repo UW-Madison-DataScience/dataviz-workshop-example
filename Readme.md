@@ -6,11 +6,11 @@ We will also talk about the [UW-Madison Carpentries Community](https://datascien
 
 This is a preview of the [Interactive Data Visualizations in Python Lesson](https://carpentries-incubator.github.io/python-interactive-data-visualizations/) currently in the [Carpentries Incubator](https://carpentries-incubator.org/)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/sstevens2/20220602-ITProConf-dataviz)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/UW-Madison-DataScience/dataviz-workshop-example)
 
 ## To follow along: 
 - Sign-in to [GitHub](https://github.com/) or create an account.
-- Click the [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/sstevens2/20220602-ITProConf-dataviz), recommend right clicking and choosing open in new tab so you have the directions below still in a tab.
+- Click the [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/UW-Madison-DataScience/dataviz-workshop-example), recommend right clicking and choosing open in new tab so you have the directions below still in a tab.
 - You will get screen asking if you want to continue with GitHub credentials. Click "Continue" 
 - You will get pop-up about authorizing Gitpod to connect with GitHub. Choose the "Authorize gitpod-io" option.
 - Select editor option will pop up, choose VS Code - BROWSER option. Leave "Latest Release" unchecked and click green "Continue" button.
