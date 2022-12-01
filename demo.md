@@ -28,6 +28,7 @@ Here is the repository we will be working with, which includes directions for ge
 - On the bottom panel, choose the "Ports" tab.
 - You should see the Port 8501 listed, next to the address the icon with two boxes and a magnifiying glass for side-by-side display. You may want to choose the browser icon to open in new tab instead but the instructor will need to choose side by side to avoid switching between windows.
 - Open `app.py` using the explorer sidebar and then arrange it side by side with the browser view.
+- You may want to close the bottom panel and sidebar for better display.
 
 ## Developing the app
 
