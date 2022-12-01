@@ -141,7 +141,7 @@ Now our app has a collapsable sidebar.
 Final challenge, try adding a checkbox widget that turns on and off displaying the data at the bottom
 
 ```python
-# Challenge add a checkbox widget to the app that controls if the data table displays or not.
+# Challenge add a checkbox widget to the sidebar of the app that controls if the data table displays or not.
 show_data = st.checkbox(label = "Show the data used to generate this plot", value = False)
 ```
 
