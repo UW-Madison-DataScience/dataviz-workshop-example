@@ -22,10 +22,12 @@ Here is the repository we will be working with, which includes directions for ge
 - You will get pop-up about authorizing Gitpod to connect with GitHub.
 - Choose the "Authorize gitpod-io" option.
 - The select editor option will pop up, choose VS Code - BROWSER option.
-- Leave "Latest Release" unchecked and click green "Continue" button.
-- On the left-hand side click the "Remote Explorer" option, looks like a computer monitor with a circle containing >< in the lower right of the icon.
-- You should see the Port 8501 listed, click on it and choose either the middle icon for side-by-side display.
-- If you don't see Port 8501 listed, type streamlit run app.py in terminal window at the bottom of the page.
+- - Leave "Latest Release" unchecked and click green "Continue" button.
+- Check that the terminal is running and says "You can now view your Streamlit app in your browser.  If it doesnt,  type `streamlit run app.py` in terminal tab.
+<!--- Changed? - On the left-hand side click the "Remote Explorer" option, looks like a computer monitor with a circle containing >< in the lower right of the icon. -->
+- On the bottom panel, choose the "Ports" tab.
+- You should see the Port 8501 listed, next to the address the icon with two boxes and a magnifiying glass for side-by-side display. You may want to choose the browser icon to open in new tab instead but the instructor will need to choose side by side to avoid switching between windows.
+- Open `app.py` using the explorer sidebar and then arrange it side by side with the browser view.
 
 ## Developing the app
 
