@@ -4,7 +4,7 @@ with some existing code and then will made some changes to add more interactivit
 
 ## Setup 
 We are going to be creating [this interactive plot](https://sstevens2-interact-with-gapminder-data-app-app-zc78i8.streamlit.app/)
-using a tool called streamlit that allows us to create interactive dashboards created with python that allow users to choose what is displayed.
+using a tool called streamlit that allows us to create interactive dashboards created with python that allow users to choose what is displayed. [For UW Audiences] there is also a [version published at UW](https://data-viz.it.wisc.edu/test-streamlit-app/).
 
 The example plot is published to the web but typically we would develop and test the application on our local 
 computer before deploying it to the web.
