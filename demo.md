@@ -18,9 +18,9 @@ Here is the repository we will be working with, which includes directions for ge
 - You will need to sign-in to GitHub or create an account.
 - Then, click the "Open in Gitpod" button, recommend right clicking and choosing open in new tab so you have the directions below still in a tab.
 - You will get screen asking if you want to continue with GitHub credentials.
-- Click "Continue"
+- Click "Continue" (or create your own account if you don't want to use your GitHub credentials but that may take longer)
 - You will get pop-up about authorizing Gitpod to connect with GitHub.
-- Choose the "Authorize gitpod-io" option.
+- Choose the "Authorize gitpod-io" option if you are comfortable with this extension and want to follow along.
 - The select editor option will pop up, choose VS Code - BROWSER option.
 - - Leave "Latest Release" unchecked and click green "Continue" button.
 - Check that the terminal is running and says "You can now view your Streamlit app in your browser.  If it doesnt,  type `streamlit run app.py` in terminal tab.
