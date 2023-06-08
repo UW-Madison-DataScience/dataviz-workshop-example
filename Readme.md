@@ -3,7 +3,8 @@
 
 This workshop is a preview of how to use streamlit to create and display interactive plots.
 
-This is a preview of the [Interactive Data Visualizations in Python Lesson](https://carpentries-incubator.github.io/python-interactive-data-visualizations/) currently in the [Carpentries Incubator](https://carpentries-incubator.org/)
+This is a preview of the [Interactive Data Visualizations in Python Lesson](https://carpentries-incubator.github.io/python-interactive-data-visualizations/) currently in the [Carpentries Incubator](https://carpentries-incubator.org/).
+In this demo we will work towards creating [this interactive dashboard of the gapminder data set](https://sstevens2-interact-with-gapminder-data-app-app-zc78i8.streamlit.app/). For UW Audiences, there is also a [version published at UW](https://data-viz.it.wisc.edu/test-streamlit-app/).
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/UW-Madison-DataScience/dataviz-workshop-example)
 
