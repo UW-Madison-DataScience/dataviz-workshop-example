@@ -13,7 +13,7 @@ we are going to be using a cloud development platform called gitpod where you ca
 a copy of the environment to work in and preview the application.
 
 Here is the repository we will be working with, which includes directions for getting gitpod setup - 
-<https://github.com/sstevens2/20220602-ITProConf-dataviz>.
+<https://github.com/UW-Madison-DataScience/dataviz-workshop-example>.
 
 - You will need to sign-in to GitHub or create an account.
 - Then, click the "Open in Gitpod" button, recommend right clicking and choosing open in new tab so you have the directions below still in a tab.
